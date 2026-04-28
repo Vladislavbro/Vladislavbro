@@ -2,7 +2,7 @@
 
 ML engineer & data analyst with focus on machine learning — tabular forecasting, computer vision, NLP / LLM-based pipelines, and product analytics.
 
-Currently studying CV and ML at CUHK (exchange) and shipping projects across the stack.
+M.Sc. student in Applied Mathematics & Informatics at HSE University (Moscow), with a CV & ML exchange semester at CUHK-Shenzhen. Based in Saint Petersburg, shipping projects across the stack.
 
 ---
 
@@ -48,7 +48,15 @@ CatBoost with weighted MAE, 8 blocks of engineered features (price, promo, inven
 
 ---
 
+## Education
+
+- **HSE University, Moscow** — M.Sc. in Applied Mathematics & Informatics (2024 – 2026)
+- **CUHK-Shenzhen** — exchange semester, Computer Vision & Data Analysis (Aug – Dec 2025)
+
+---
+
 ## Connect
 
 - Email: [i.vladsn@gmail.com](mailto:i.vladsn@gmail.com)
+- Telegram: [@nemasterr](https://t.me/nemasterr)
 - GitHub: [@Vladislavbro](https://github.com/Vladislavbro)
